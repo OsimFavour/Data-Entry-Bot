@@ -37,3 +37,4 @@ This bot was created by me. It was built using Python and the following librarie
 - selenium
 
 # License
+- This project is licensed under the [MIT License](LICENSE).
