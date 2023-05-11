@@ -28,9 +28,12 @@ To use the Zillow Data Entry Job Bot, follow these steps:
 
 The bot will automatically search the Zillow Website for houses from different pages in the site, extract the relevant data, and transfer it into a csv file for you.
 
-# Language and Libraries
-- Python
-- Requests Lib.
-- Lxml Parser
-- BeautifulSoup
-- Selenium
+# Credits
+This bot was created by me. It was built using Python and the following libraries:
+
+- requests
+- lxml
+- beautifulsoup4
+- selenium
+
+# License
