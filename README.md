@@ -4,6 +4,7 @@ This is a Python-based bot that searches the Zillow website for house prices tha
 # Features
 The Zillow Data Entry Job Bot has the following features:
 
+
     - Searches the Zillow website for houses that fit a specified criteria
     - Extracts relevant data such as house price, square footage, number of bedrooms, etc.
     - Transfers data into a spreadsheet created with Google Sheets
