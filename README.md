@@ -12,7 +12,7 @@ The Zillow Data Entry Job Bot has the following features:
 Before running the Zillow Data Job Bot, you must have the following:
 - Python 3.x installed on your computer
 - Required Python libraries: requests, lxml, beautifulsoup4 and selenium webdriver
-- A Google account (to create and access a Google Forms)
+- A Google account (to create and access Google Forms)
 
 # Installation
 To install the required Python libraries, run the following command:
